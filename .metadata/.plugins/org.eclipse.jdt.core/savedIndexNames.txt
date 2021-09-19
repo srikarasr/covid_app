@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\F\all_projects\2021\projects\udaan_preparation\.metadata\.plugins\org.eclipse.jdt.core
